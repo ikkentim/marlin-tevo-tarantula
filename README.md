@@ -14,6 +14,6 @@ My Marlin Tevo Tarantula config. Based roughly on Jim Brown's config, tweaked fo
 
 ## Upgrades
 Printable upgrades I use
-- ![BLTouch mount for Tevo Tarantula](https://www.thingiverse.com/thing:2673200)
-- ![Tevo Tarantula bed level knob](https://www.thingiverse.com/thing:2330042)
-- ![Adjustable Belt Tensioner/Tightener and Belt Tie (Tevo Tarantula)](https://www.thingiverse.com/thing:1780636)
+- [BLTouch mount for Tevo Tarantula](https://www.thingiverse.com/thing:2673200)
+- [Tevo Tarantula bed level knob](https://www.thingiverse.com/thing:2330042)
+- [Adjustable Belt Tensioner/Tightener and Belt Tie (Tevo Tarantula)](https://www.thingiverse.com/thing:1780636)
