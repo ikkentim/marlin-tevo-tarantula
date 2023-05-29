@@ -4,7 +4,8 @@ My Marlin Tevo Tarantula config. Based roughly on Jim Brown's config, tweaked fo
 ## Software
 - Marlin 2.1.x
 - OctoPrint
-## Setup
+
+## Hardware
 - Tevo Tarantula
 - Dual Z motors
 - Replaced plastic stuctural parts with laser cut metal parts
