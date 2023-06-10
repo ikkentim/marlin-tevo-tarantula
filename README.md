@@ -3,7 +3,7 @@ My Marlin Tevo Tarantula config. Based roughly on Jim Brown's config, tweaked fo
 
 ## Software
 - Marlin 2.1.x
-- OctoPrint
+- OctoPrint 1.9.0 (OctoPi 1.0.0)
 
 ## Hardware
 - Tevo Tarantula
