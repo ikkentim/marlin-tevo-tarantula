@@ -17,6 +17,7 @@ Printable upgrades I use
 - [BLTouch mount for Tevo Tarantula](https://www.thingiverse.com/thing:2673200)
 - [Tevo Tarantula bed level knob](https://www.thingiverse.com/thing:2330042)
 - [Adjustable Belt Tensioner/Tightener and Belt Tie (Tevo Tarantula)](https://www.thingiverse.com/thing:1780636)
+-[TEVO Tarantula Fan Duct](https://www.thingiverse.com/thing:2284224)
 
 ## Stepsticks
 Some of my stepsticks are DRV8825. These have a 0.1 Ohm resistor.
